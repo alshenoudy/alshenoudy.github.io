@@ -211,7 +211,7 @@ export const siteConfig = {
   description:
     "A text-first Astro theme for essays, notes, and long-form writing, with a command-palette search and a light/dark reading mode.",
   /** Canonical domain. Must be set before building for production. */
-  siteUrl: "https://monograph.xocoweb.workers.dev",
+  siteUrl: "https://alshenoudy.github.io",
   /** Fills the SEO and JSON-LD author fields. */
   authorName: "Ahmed Alshenoudy",
   language: "en",
